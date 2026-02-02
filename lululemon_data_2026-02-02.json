@@ -1,0 +1,820 @@
+{
+    "products": [
+        {
+            "product_name": "Hold Tight Long-Sleeve ShirtLong",
+            "product_link": "https://shop.lululemon.com/p/tops-long-sleeve/Hold-Tight-Long-Sleeve-Long-MD/_/prod10642045?color=69979",
+            "product_description": "Super soft and loves to layer. This lightweight long sleeve delivers just-right stretch and a second-skin fit that wears well on its own or as a base.",
+            "sale_price": null,
+            "regular_price": 68,
+            "color_count": [
+                "Minute Stripe White Club Blue",
+                "Dove Grey",
+                "Grape Mist",
+                "Nutmeg",
+                "Bone",
+                "Espresso"
+            ],
+            "color_count_number": 6,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3IZDS_069979_1",
+            "productID": "prod10642045",
+            "attributes": [],
+            "rating": 4.176265945110166,
+            "rating_n": 2587,
+            "brand": "lululemon",
+            "category": "tops-long-sleeve"
+        },
+        {
+            "product_name": "Swiftly Tech Short-Sleeve Shirt 2.0 Hip LengthSparkle",
+            "product_link": "https://shop.lululemon.com/p/tops-short-sleeve/Swiftly-Tech-Short-Sleeve-Shirt-2-Hip-Sparkle-MD/_/prod11860148?color=73823",
+            "product_description": "Go ahead, get sweaty. This version of our Swiftly short sleeve features coloured metallic yarns that rival your post-workout glow.",
+            "sale_price": null,
+            "regular_price": 68,
+            "color_count": [
+                "Parallel Texture Garnet/Berry Red",
+                "Black Plum/Rainbow Lurex",
+                "Black/Rainbow Lurex"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3JMUS_073823_1",
+            "productID": "prod11860148",
+            "attributes": [],
+            "rating": 4.375,
+            "rating_n": 24,
+            "brand": "lululemon",
+            "category": "tops-short-sleeve"
+        },
+        {
+            "product_name": "Shake It Out High-Rise Running Short 2.5\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Shake-It-Out-High-Rise-Running-Short-25-MD/_/prod11860253?color=33068",
+            "product_description": "Equal parts run and fun. These shorts have hidden storage and a stay-put waistband to reduce distractions, plus a layered hem that brings volume and style to your look.",
+            "sale_price": null,
+            "regular_price": 68,
+            "color_count": [
+                "Blush Quartz",
+                "Serene Blue",
+                "Rock Melon",
+                "Lemongrass",
+                "Bay Leaf"
+            ],
+            "color_count_number": 5,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7DENS_033068_1",
+            "productID": "prod11860253",
+            "attributes": [],
+            "rating": 4.5307994757536045,
+            "rating_n": 763,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Dance Studio Mid-Rise PantRegular",
+            "product_link": "https://shop.lululemon.com/p/women-pants/Dance-Studio-Pant-MR-Reg-MD/_/prod11780028?color=63787",
+            "product_description": "Easy, comfortable, and never clingy, these pants are in our after-practice hall of fame.",
+            "sale_price": null,
+            "regular_price": 118,
+            "color_count": [
+                "LLL Geo Pattern MIDI Black Multi",
+                "Atmospheric Purple"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5ENOR_063787_1",
+            "productID": "prod11780028",
+            "attributes": [],
+            "rating": 4.315934065934066,
+            "rating_n": 3276,
+            "brand": "lululemon",
+            "category": "women-pants"
+        },
+        {
+            "product_name": "lululemon Glow Up™ Super-High-Rise Tight 25\"",
+            "product_link": "https://shop.lululemon.com/p/womens-leggings/Glow-Up-Super-High-Rise-Tight-25-MD/_/prod11800853?color=41179",
+            "product_description": "Confident to your core. These training tights combine sleek fabric and smoothing waistband technology to keep you feeling sculpted and supported.",
+            "sale_price": null,
+            "regular_price": 118,
+            "color_count": [
+                "Sequoia",
+                "Black Plum",
+                "Snake Structure Emboss Black",
+                "Snake Structure Grey Multi"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5FZES_041179_1",
+            "productID": "prod11800853",
+            "attributes": [],
+            "rating": 3.9598930481283423,
+            "rating_n": 748,
+            "brand": "lululemon",
+            "category": "womens-leggings"
+        },
+        {
+            "product_name": "lululemon Glow Up™ Tank TopMedium Support, B/C Cup",
+            "product_link": "https://shop.lululemon.com/p/women-tanks/Glow-Up-Tank-Top-Medium-Support-BC-Cup-MD/_/prod11800333?color=63787",
+            "product_description": "Confident to your core. This training tank uses sleek fabric for a sculpted, supportive fit that keeps you feeling held in—but never held back.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Atmospheric Purple",
+                "Indochine Blue",
+                "Desert Red",
+                "Lavender Lux",
+                "True Navy"
+            ],
+            "color_count_number": 5,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW1EZAS_063787_1",
+            "productID": "prod11800333",
+            "attributes": [],
+            "rating": 4.380597014925373,
+            "rating_n": 134,
+            "brand": "lululemon",
+            "category": "women-tanks"
+        },
+        {
+            "product_name": "Define Cropped JacketNulu",
+            "product_link": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Nulu-Cropped-Define-Jacket-MD/_/prod10980099?color=74899",
+            "product_description": "Up for adventure and ready for downtime. This shortened version of our fan-favourite Define Jacket has a feel-good fit that can do it all.",
+            "sale_price": null,
+            "regular_price": 128,
+            "color_count": [
+                "Grape Mist/Mirror Silver/Mirror Silver",
+                "Meadow Haze Grey Multi"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3HB5S_074899_1",
+            "productID": "prod10980099",
+            "attributes": [],
+            "rating": 4.634572072072072,
+            "rating_n": 5328,
+            "brand": "lululemon",
+            "category": "jackets-and-hoodies-jackets"
+        },
+        {
+            "product_name": "Court Rival High-Rise Short 3\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Court-Rival-High-Rise-Short-3-MD/_/prod11771045?color=74379",
+            "product_description": "Channel that champ energy in these lightweight tennis shorts. A breathable built-in liner offers extra coverage so you can move freely.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Blush Quartz/White"
+            ],
+            "color_count_number": 1,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7CYLS_074379_1",
+            "productID": "prod11771045",
+            "attributes": [],
+            "rating": 4.418918918918919,
+            "rating_n": 148,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Scuba Oversized Full-Zip HoodieWaffle",
+            "product_link": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Full-Zip-Hoodie-Waffle-MD/_/prod20004530?color=42362",
+            "product_description": "Our signature hoodie with a textured twist. A rich, waffle-knit fabric adds depth and softness to your downtime.",
+            "sale_price": null,
+            "regular_price": 148,
+            "color_count": [
+                "Heathered Indochine Blue",
+                "Heathered Faint Lavender"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3JCVS_042362_1",
+            "productID": "prod20004530",
+            "attributes": [],
+            "rating": 4.6158940397351,
+            "rating_n": 151,
+            "brand": "lululemon",
+            "category": "womens-outerwear"
+        },
+        {
+            "product_name": "lululemon Align™ High-Rise Crop 21\"",
+            "product_link": "https://shop.lululemon.com/p/women-crops/Align-Crop-21-MD/_/prod8840221?color=47184",
+            "product_description": "When feeling nothing is everything. The lululemon Align™ collection is so weightless and buttery soft, all you feel is your practice.",
+            "sale_price": null,
+            "regular_price": 88,
+            "color_count": [
+                "Heritage 365 Camo Deep Coal Multi",
+                "True Navy"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW6BOVS_047184_1",
+            "productID": "prod8840221",
+            "attributes": [],
+            "rating": 4.30293453724605,
+            "rating_n": 4430,
+            "brand": "lululemon",
+            "category": "women-crops"
+        },
+        {
+            "product_name": "Dance Studio High-Rise Short 3.5\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Dance-Studio-HR-Short-35-MD/_/prod11070045?color=0001",
+            "product_description": "Easy, comfortable, and never clingy. We took your favourite after-practice joggers and made them into shorts. Lightweight Swift fabric keeps you cool.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Autumn Rust",
+                "White",
+                "Black"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7CCGS_0001_1",
+            "productID": "prod11070045",
+            "attributes": [],
+            "rating": 4.289156626506024,
+            "rating_n": 747,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Define JacketNulu",
+            "product_link": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Jacket-Nulu-MD/_/prod11210211?color=33190",
+            "product_description": "Up for adventure and ready for downtime. Our fan-favourite Define Jacket has a feel-good fit that can do it all.",
+            "sale_price": null,
+            "regular_price": 128,
+            "color_count": [
+                "Brilliant Blue",
+                "Meadow Haze Grey Multi"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3ID8S_033190_1",
+            "productID": "prod11210211",
+            "attributes": [],
+            "rating": 4.642412534878729,
+            "rating_n": 4659,
+            "brand": "lululemon",
+            "category": "jackets-and-hoodies-jackets"
+        },
+        {
+            "product_name": "Softstreme Full-Zip HoodieLong",
+            "product_link": "https://shop.lululemon.com/p/womens-outerwear/Softstreme-Full-Zip-Hoodie-Long-MD/_/prod20003818?color=41179",
+            "product_description": "Lend some luxe to your weekend look. Feel-it-to-believe it Softstreme™ fabric brings slinky softness to this hoodie while the gathered bubble hem adds a playful pop of volume.",
+            "sale_price": null,
+            "regular_price": 148,
+            "color_count": [
+                "Sequoia",
+                "Faint Lavender",
+                "Indochine Blue"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3JI0S_041179_1",
+            "productID": "prod20003818",
+            "attributes": [],
+            "rating": 4.25,
+            "rating_n": 36,
+            "brand": "lululemon",
+            "category": "womens-outerwear"
+        },
+        {
+            "product_name": "lululemon Energy BraMedium Support, B–D Cups",
+            "product_link": "https://shop.lululemon.com/p/women-sports-bras/Energy-Bra-32925-MD/_/prod3520003?color=33068",
+            "product_description": "Voted most likely to be worn multiple times a week. This all-sport bra is a favourite for comfort and versatility.",
+            "sale_price": null,
+            "regular_price": 58,
+            "color_count": [
+                "Blush Quartz",
+                "Grape Mist",
+                "Sinatra Blue"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW2EB3S_033068_1",
+            "productID": "prod3520003",
+            "attributes": [],
+            "rating": 4.451377633711507,
+            "rating_n": 1234,
+            "brand": "lululemon",
+            "category": "women-sports-bras"
+        },
+        {
+            "product_name": "Wunder Train High-Rise Short 6\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Wunder-Train-HR-Short-6-MD/_/prod9890085?color=0554",
+            "product_description": "Train hard, not hot. Made from Everlux™, the Wunder Train collection is highly breathable and quickly wicks sweat so you feel less sweaty during (and after) your workout.",
+            "sale_price": null,
+            "regular_price": 64,
+            "color_count": [
+                "Grape Mist",
+                "Atmospheric Purple",
+                "Raspberry coulis",
+                "Cosmic Leopard Multi",
+                "Warm Ash Grey",
+                "Deep Sea Blue",
+                "Blue Twill",
+                "Washed Denim",
+                "Raceway Green",
+                "Grey Eucalyptus"
+            ],
+            "color_count_number": 10,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7BESS_0554_1",
+            "productID": "prod9890085",
+            "attributes": [],
+            "rating": 4.293038766152564,
+            "rating_n": 2399,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Unisex Daily Essential Quarter Socks3 Pack",
+            "product_link": "https://shop.lululemon.com/p/women-socks/Unisex-Daily-Essential-Quarter-Socks-3-Pack-MD/_/prod11870114?color=75971",
+            "product_description": "Top drawer comfort. These soft cotton socks combine integrated arch support and plush cushioning.",
+            "sale_price": null,
+            "regular_price": 38,
+            "color_count": [
+                "Riverside/Sheer Violet/White",
+                "Pink Frosting/White/Bay Leaf",
+                "Rockwood/White/Blissful Pink"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LU9CE5S_075971_1",
+            "productID": "prod11870114",
+            "attributes": [],
+            "rating": 4.571428571428571,
+            "rating_n": 210,
+            "brand": "lululemon",
+            "category": "women-socks"
+        },
+        {
+            "product_name": "Speed Up High-Rise Lined Short 4\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Speed-Up-Short-HR-Long-MD/_/prod10250080?color=0001",
+            "product_description": "Make it a long one. The Speed Up collection features a lightweight waistband and easy-access pockets so you can focus on your run—not your gear.",
+            "sale_price": null,
+            "regular_price": 68,
+            "color_count": [
+                "Pool Party",
+                "Black",
+                "True Navy",
+                "White"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7BBFT_0001_1",
+            "productID": "prod10250080",
+            "attributes": [],
+            "rating": 4.495755517826825,
+            "rating_n": 2356,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Swiftly Tech Long-Sleeve Shirt 2.0Hip Length",
+            "product_link": "https://shop.lululemon.com/p/tops-long-sleeve/Swiftly-Tech-LS-2-MD/_/prod10642279?color=72654",
+            "product_description": "Go ahead, get sweaty. The Swiftly collection is all about high-performing fabric that seamlessly adapts to you and your workout.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Indochine Blue/Indochine Blue",
+                "Berry Rumble/Berry Rumble",
+                "Jewelled Magenta/Jewelled Magenta",
+                "Spandex Stripe Fountain/White",
+                "Brilliant Blue/Brilliant Blue",
+                "Atmospheric Purple/Atmospheric Purple",
+                "Red Clay/Red Clay",
+                "Passionate/Passionate",
+                "Bay Leaf/Bay Leaf",
+                "Calypso Pink/Calypso Pink",
+                "Lavender Lux/Lavender Lux",
+                "Hot Heat/Hot Heat"
+            ],
+            "color_count_number": 12,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3HT0S_072654_1",
+            "productID": "prod10642279",
+            "attributes": [],
+            "rating": 4.37849533954727,
+            "rating_n": 3004,
+            "brand": "lululemon",
+            "category": "tops-long-sleeve"
+        },
+        {
+            "product_name": "Free to Be Bra - WildLight Support, A/B Cup",
+            "product_link": "https://shop.lululemon.com/p/women-sports-bras/Free-To-Be-Bra-Wild-MD/_/prod10080165?color=33068",
+            "product_description": "Meet you at yoga? This strappy open-back bra is ready for all the ways you move, stretch, and open.",
+            "sale_price": null,
+            "regular_price": 48,
+            "color_count": [
+                "Blush Quartz",
+                "Sinatra Blue"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW2731S_033068_1",
+            "productID": "prod10080165",
+            "attributes": [],
+            "rating": 4.449147883452446,
+            "rating_n": 1819,
+            "brand": "lululemon",
+            "category": "women-sports-bras"
+        },
+        {
+            "product_name": "Wunder Puff 600-Down-Fill JacketShine",
+            "product_link": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Wunder-Puff-600-Down-Fill-Jacket-Shine-MD/_/prod20005054?color=33454",
+            "product_description": "This wonderfully warm down puffer has a cinchable waist and hem that lets you customize the shape and keep out cold drafts.",
+            "sale_price": null,
+            "regular_price": 348,
+            "color_count": [
+                "Light Ivory",
+                "Solar Grey",
+                "Atmospheric Purple",
+                "Berry Rumble",
+                "Black"
+            ],
+            "color_count_number": 5,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW4CMSS_033454_1",
+            "productID": "prod20005054",
+            "attributes": [],
+            "rating": 4.454545454545454,
+            "rating_n": 11,
+            "brand": "lululemon",
+            "category": "jackets-and-hoodies-jackets"
+        },
+        {
+            "product_name": "Scuba Oversized Half-Zip Hoodie",
+            "product_link": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-12-Zip-Hoodie-MD/_/prod10300103?color=74933",
+            "product_description": "Serious about softness. This half-zip hooded sweatshirt is all about fleecy fabric and pairs perfectly with our Scuba sweatpants.",
+            "sale_price": null,
+            "regular_price": 128,
+            "color_count": [
+                "Indochine Blue/Gold",
+                "Fog Green"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3HTOS_074933_1",
+            "productID": "prod10300103",
+            "attributes": [],
+            "rating": 4.554096094020048,
+            "rating_n": 11572,
+            "brand": "lululemon",
+            "category": "womens-outerwear"
+        },
+        {
+            "product_name": "Fast and Free High-Rise Classic-Fit Split Short 3\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Fast-and-Free-High-Rise-Classic-Fit-Split-Short-3-MD/_/prod11860256?color=33190",
+            "product_description": "100% pure running freedom. These shorts pair lightweight performance fabric with streamlined waistband storage to keep you feeling fast and free.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Hawaiian Blue",
+                "Galactic Cobalt",
+                "Lavender Frost"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7DHDS_033190_1",
+            "productID": "prod11860256",
+            "attributes": [],
+            "rating": 3.4365079365079363,
+            "rating_n": 504,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Fast and Free High-Rise Tight 28\"5 Pocket",
+            "product_link": "https://shop.lululemon.com/p/womens-leggings/Nulux-5-Pocket-HR-Running-Tight-28-MD/_/prod11520081?color=63787",
+            "product_description": "Set your run free. This five-pocket version of our Fast and Free tight has seam-free inner thighs and a streamlined waistband to maximize that smooth, weightless feeling.",
+            "sale_price": null,
+            "regular_price": 128,
+            "color_count": [
+                "Atmospheric Purple"
+            ],
+            "color_count_number": 1,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5FLOS_063787_1",
+            "productID": "prod11520081",
+            "attributes": [],
+            "rating": 3.9243697478991595,
+            "rating_n": 595,
+            "brand": "lululemon",
+            "category": "womens-leggings"
+        },
+        {
+            "product_name": "lululemon Align™ High-Rise Pant 28\"",
+            "product_link": "https://shop.lululemon.com/p/womens-leggings/Align-Pant-Full-Length-28-MD/_/prod8840324?color=0554",
+            "product_description": "When feeling nothing is everything. The lululemon Align™ collection is so weightless and buttery soft, all you feel is your practice.",
+            "sale_price": null,
+            "regular_price": 98,
+            "color_count": [
+                "Grape Mist",
+                "Meadow Haze Pink Multi",
+                "Meadow Haze Grey Multi"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5DITS_0554_1",
+            "productID": "prod8840324",
+            "attributes": [],
+            "rating": 4.225201522615316,
+            "rating_n": 17864,
+            "brand": "lululemon",
+            "category": "womens-leggings"
+        },
+        {
+            "product_name": "Loungeful Classic-Fit High-Rise Sweatpant",
+            "product_link": "https://shop.lululemon.com/p/womens-sweatpants/Loungeful-Classic-Fit-High-Rise-Sweatpant-MD/_/prod20001634?color=35487",
+            "product_description": "Street ready and max comfy. These sweatpants are made from stretch fleece in a roomy fit with an adjustable, narrow waistband.",
+            "sale_price": null,
+            "regular_price": 118,
+            "color_count": [
+                "Palm Deco",
+                "Heathered Core Ultra Light Grey",
+                "Heathered Nutmeg",
+                "Black"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5HFJS_035487_1",
+            "productID": "prod20001634",
+            "attributes": [],
+            "rating": 4.025210084033613,
+            "rating_n": 119,
+            "brand": "lululemon",
+            "category": "womens-sweatpants"
+        },
+        {
+            "product_name": "Back to Life Clear Bottle 32ozStraw Lid",
+            "product_link": "https://shop.lululemon.com/p/water-bottles/Back-to-Life-Clear-Bottle-32oz-Straw-Lid-MD/_/prod11880182?color=76324",
+            "product_description": "Did you drink enough water today? Carry this lightweight straw-lid bottle and stay accountable to your hydration goals.",
+            "sale_price": null,
+            "regular_price": 34,
+            "color_count": [
+                "Oxford Red/Jewelled Magenta/True Red",
+                "Dare Devil/Riverside/Rockwood",
+                "Dusty Lilac/Blissful Pink",
+                "Deep Sea Blue/Washed Blue"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LU9CBFS_076324_1",
+            "productID": "prod11880182",
+            "attributes": [],
+            "rating": 4.365853658536586,
+            "rating_n": 41,
+            "brand": "lululemon",
+            "category": "water-bottles"
+        },
+        {
+            "product_name": "Women's Restfeel Faux Fur Slide",
+            "product_link": "https://shop.lululemon.com/p/shoes/Womens-Restfeel-Faux-Fur-Slide-MD/_/prod20003666?color=75586",
+            "product_description": "Warm and fuzzies for your feet. This version of our Restfeel slide has the plush feel and solid grip you love plus a luxuriously soft faux fur strap.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Faint Lavender/Faint Lavender/Silver",
+                "Bone/Bone/Silver",
+                "Dark Chestnut/Dark Chestnut/Silver"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW9FYWS_075586_1",
+            "productID": "prod20003666",
+            "attributes": [],
+            "rating": 4.589743589743589,
+            "rating_n": 39,
+            "brand": "lululemon",
+            "category": "shoes"
+        },
+        {
+            "product_name": "Loungeful Relaxed-Fit Full-Zip Cropped Hoodie",
+            "product_link": "https://shop.lululemon.com/p/womens-outerwear/Loungeful-Relaxed-Fit-Full-Zip-Cropped-Hoodie-MD/_/prod20004718?color=32493",
+            "product_description": "A contoured look that's comfy to the max. Made from stretch fleece in a roomy fit, this cropped hoodie nips in at the waist.",
+            "sale_price": null,
+            "regular_price": 128,
+            "color_count": [
+                "Heathered Core Ultra Light Grey",
+                "Black"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3JZGS_032493_1",
+            "productID": "prod20004718",
+            "attributes": [],
+            "rating": 3.86046511627907,
+            "rating_n": 43,
+            "brand": "lululemon",
+            "category": "womens-outerwear"
+        },
+        {
+            "product_name": "Flow Y Bra NuluLight Support, A–C Cups",
+            "product_link": "https://shop.lululemon.com/p/women-sports-bras/Flow-Y-Bra-Nulu-MD/_/prod11500294?color=63787",
+            "product_description": "What bra? We designed our classic racerback so you won't feel anything but your practice.",
+            "sale_price": null,
+            "regular_price": 48,
+            "color_count": [
+                "Grape Mist",
+                "Blush Quartz",
+                "Atmospheric Purple",
+                "Sinatra Blue"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW2DBQS_063787_1",
+            "productID": "prod11500294",
+            "attributes": [],
+            "rating": 4.222849083215797,
+            "rating_n": 3545,
+            "brand": "lululemon",
+            "category": "women-sports-bras"
+        },
+        {
+            "product_name": "Define Mesh-Back JacketNulu",
+            "product_link": "https://shop.lululemon.com/p/jackets-and-hoodies-jackets/Define-Mesh-Back-Jacket-Nulu-MD/_/prod20001814?color=63787",
+            "product_description": "Lodge legend. With a sheer mesh back and corsetry-inspired seam lines, this Define jacket pairs perfectly with a snowy backdrop and a roaring fire.",
+            "sale_price": null,
+            "regular_price": 138,
+            "color_count": [
+                "Atmospheric Purple"
+            ],
+            "color_count_number": 1,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3KDHS_063787_1",
+            "productID": "prod20001814",
+            "attributes": [],
+            "rating": 4.8,
+            "rating_n": 20,
+            "brand": "lululemon",
+            "category": "jackets-and-hoodies-jackets"
+        },
+        {
+            "product_name": "Speed Up High-Rise Lined Short 2.5\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Speed-Up-Short-Hi-Rise-2-5-MD/_/prod11784944?color=0001",
+            "product_description": "Make it a long one. The Speed Up collection features a lightweight waistband and easy-access pockets so you can focus on your run—not your gear.",
+            "sale_price": null,
+            "regular_price": 68,
+            "color_count": [
+                "True Navy",
+                "Black",
+                "White"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7BEXS_0001_1",
+            "productID": "prod11784944",
+            "attributes": [],
+            "rating": 4.520443925233645,
+            "rating_n": 1712,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Adapted State Thermal High-Rise Jogger",
+            "product_link": "https://shop.lululemon.com/p/womens-joggers/Adapted-State-Thermal-High-Rise-Jogger-MD/_/prod20005578?color=0001",
+            "product_description": "Think fast, stay warm. Made from technical thermal fabric, this version of our Adapted State jogger makes quick transitions cozier in cold weather.",
+            "sale_price": null,
+            "regular_price": 148,
+            "color_count": [
+                "Indochine Blue",
+                "Black",
+                "Olive Brown",
+                "Dove Grey"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5HLVS_0001_1",
+            "productID": "prod20005578",
+            "attributes": [],
+            "rating": 4.366666666666666,
+            "rating_n": 30,
+            "brand": "lululemon",
+            "category": "womens-joggers"
+        },
+        {
+            "product_name": "Swiftly Tech Long-Sleeve Shirt 2.0Waist Length",
+            "product_link": "https://shop.lululemon.com/p/tops-long-sleeve/Swiftly-Tech-LS-2-Race-MD/_/prod9820340?color=38542",
+            "product_description": "Go ahead, get sweaty. The Swiftly collection is all about high-performing fabric that seamlessly adapts to you and your workout.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Pelican/Pelican",
+                "Serene Blue/Daisy Glow",
+                "Jewelled Magenta/Jewelled Magenta",
+                "Brilliant Blue/Brilliant Blue"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3DOBS_038542_1",
+            "productID": "prod9820340",
+            "attributes": [],
+            "rating": 4.423737248071659,
+            "rating_n": 4019,
+            "brand": "lululemon",
+            "category": "tops-long-sleeve"
+        },
+        {
+            "product_name": "Wunder Train High-Rise Tight 28\"",
+            "product_link": "https://shop.lululemon.com/p/womens-leggings/Wunder-Train-HR-Tight-28-MD/_/prod10560038?color=33068",
+            "product_description": "Train hard, not hot. Made from Everlux™, the Wunder Train collection is highly breathable and quickly wicks sweat so you feel less sweaty during (and after) your workout.",
+            "sale_price": null,
+            "regular_price": 98,
+            "color_count": [
+                "Sinatra Blue",
+                "Grape Mist",
+                "Army Green"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5EOLS_033068_1",
+            "productID": "prod10560038",
+            "attributes": [],
+            "rating": 4.298687552921253,
+            "rating_n": 4724,
+            "brand": "lululemon",
+            "category": "womens-leggings"
+        },
+        {
+            "product_name": "Swiftly Relaxed Long-Sleeve ShirtHip Length",
+            "product_link": "https://shop.lululemon.com/p/tops-long-sleeve/Swiftly-Tech-LS-Breeze-MD/_/prod11782378?color=0572",
+            "product_description": "Go ahead, get sweaty. The Swiftly Relaxed collection, powered by seamless construction, is the ultimate gear for running and training.",
+            "sale_price": null,
+            "regular_price": 78,
+            "color_count": [
+                "Slate/White",
+                "Black/Black",
+                "Spandex Stripe Fog Green/White",
+                "White/White"
+            ],
+            "color_count_number": 4,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3FUQS_0572_1",
+            "productID": "prod11782378",
+            "attributes": [],
+            "rating": 4.631453534551231,
+            "rating_n": 2518,
+            "brand": "lululemon",
+            "category": "tops-long-sleeve"
+        },
+        {
+            "product_name": "Dance Studio Mid-Rise JoggerFull Length",
+            "product_link": "https://shop.lululemon.com/p/womens-joggers/Dance-Studio-Jogger-29-MD/_/prod9090576?color=41179",
+            "product_description": "Easy, comfortable, and never clingy, these joggers are in our after-practice hall of fame.",
+            "sale_price": null,
+            "regular_price": 98,
+            "color_count": [
+                "Fog Green",
+                "Sinatra Blue"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW5ENMS_041179_1",
+            "productID": "prod9090576",
+            "attributes": [],
+            "rating": 4.428797696184305,
+            "rating_n": 6945,
+            "brand": "lululemon",
+            "category": "womens-joggers"
+        },
+        {
+            "product_name": "Hotty Hot High-Rise Lined Short 4\"",
+            "product_link": "https://shop.lululemon.com/p/women-shorts/Hotty-Hot-Short-HR-Long-MD/_/prod9320242?color=34697",
+            "product_description": "Born to run but with room for everything else. These iconic shorts are cut with a wider leg so you can move freely through every stride, squat, and step up.",
+            "sale_price": null,
+            "regular_price": 68,
+            "color_count": [
+                "Blush Quartz",
+                "Fog Green",
+                "Cornflower"
+            ],
+            "color_count_number": 3,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW7DCNS_034697_1",
+            "productID": "prod9320242",
+            "attributes": [],
+            "rating": 4.507615272272063,
+            "rating_n": 4793,
+            "brand": "lululemon",
+            "category": "women-shorts"
+        },
+        {
+            "product_name": "Scuba Oversized Funnel-Neck Half ZipLong",
+            "product_link": "https://shop.lululemon.com/p/womens-outerwear/Scuba-Oversized-Funnel-Neck-Long-MD/_/prod11690117?color=32493",
+            "product_description": "Serious about softness. This funnel-neck half zip is all about fleecy fabric and sinking in to a cozy oversized fit.",
+            "sale_price": null,
+            "regular_price": 128,
+            "color_count": [
+                "Heathered Core Ultra Light Grey",
+                "Black"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LW3IG8S_032493_1",
+            "productID": "prod11690117",
+            "attributes": [],
+            "rating": 4.551658966820663,
+            "rating_n": 4762,
+            "brand": "lululemon",
+            "category": "womens-outerwear"
+        },
+        {
+            "product_name": "Boucle Fleece Reversible Bucket Hat",
+            "product_link": "https://shop.lululemon.com/p/hats/Boucle-Fleece-Reversible-Bucket-Hat-MD/_/prod20007770?color=72717",
+            "product_description": "Cold, meet cozy. This reversible bucket hat is made of plush boucle fleece fabric that feels snuggly soft like a teddy bear while the other side helps keep your head dry in light rain.",
+            "sale_price": null,
+            "regular_price": 58,
+            "color_count": [
+                "Chestnut Brown/Light Ivory",
+                "Black/Light Ivory"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LU9DDDS_072717_1",
+            "productID": "prod20007770",
+            "attributes": [],
+            "rating": 4.8,
+            "rating_n": 5,
+            "brand": "lululemon",
+            "category": "hats"
+        },
+        {
+            "product_name": "Unisex Daily Essential Quarter SocksStripe",
+            "product_link": "https://shop.lululemon.com/p/women-socks/Unisex-Daily-Essential-Quarter-Socks-Stripe-MD/_/prod20004742?color=35773",
+            "product_description": "Top drawer comfort. These soft cotton socks combine integrated arch support and plush cushioning.",
+            "sale_price": null,
+            "regular_price": 14,
+            "color_count": [
+                "Blissful Pink/White",
+                "White/Sheer Violet"
+            ],
+            "color_count_number": 2,
+            "image_url": "https://images.lululemon.com/is/image/lululemon/LU9DM8S_035773_1",
+            "productID": "prod20004742",
+            "attributes": [],
+            "rating": 4.5,
+            "rating_n": 116,
+            "brand": "lululemon",
+            "category": "women-socks"
+        }
+    ],
+    "swatches": []
+}
