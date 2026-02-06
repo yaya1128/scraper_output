@@ -1,0 +1,35 @@
+{
+  "products": [
+    {
+      "color_list": [],
+      "product_name": "(no name)",
+      "product_link": "https://www.miumiu.com/my/en/p/waxed-suede-leather-vest/MPT318_19ML_F0046_S_OOO",
+      "sale_price": 19000,
+      "regular_price": 19000,
+      "currency": "MYR",
+      "brand": "miumiu",
+      "attributes": []
+    },
+    {
+      "color_list": [],
+      "product_name": "(no name)",
+      "product_link": "https://www.miumiu.com/my/en/p/waxed-suede-leather-vest/MPT318_19ML_F0046_S_OOO",
+      "sale_price": 19000,
+      "regular_price": 19000,
+      "currency": "MYR",
+      "brand": "miumiu",
+      "attributes": []
+    },
+    {
+      "color_list": [],
+      "product_name": "Waxed suede leather vest",
+      "product_link": "https://www.miumiu.com/my/en/p/waxed-suede-leather-vest/MPT318_19ML_F0046_S_OOO",
+      "sale_price": 19000,
+      "regular_price": 19000,
+      "currency": "MYR",
+      "brand": "miumiu",
+      "attributes": []
+    }
+  ],
+  "swatches": []
+}
